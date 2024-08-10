@@ -1,0 +1,12 @@
+Para implementar correctamente la base de datos correspondiente al Centro de Turismo, debe seguir los siguientes pasos luego de abrir la carpeta de nombre "SCRIPTS": 
+
+1. Abrir "01_Crecion_BD_y_Creacion_Tablas.sql" y ejecutar el código.
+2. Abrir "02_Insercion_de_Datos.sql" y ejecutar el código.
+3. Abrir "03_Creacion_Vistas.sql" y ejecutar el código.
+4. Abrir "04_Creacion_Funciones.sql" y ejecutar el código. 
+5. Abrir "05_Creacion_Procedimientos.sql" y ejecutar el código.
+6. Abrir "06_Creacion_Triggers.sql" y ejecutar el código.
+7. Abrir "07_Creacion_Usuarios_DCL.sql" y ejecutar el código. 
+8. Abrir "08_TCL.sql" y ejecutar el código. 
+
+En caso necesario, ejecutar el siguiente script de backup que es un respaldo de las tablas de la base de datos únicamente: Abrir "09_Backup.sql" y ejecutar el código. 
